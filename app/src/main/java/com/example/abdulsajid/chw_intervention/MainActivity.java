@@ -95,7 +95,7 @@ public class MainActivity extends AppCompatActivity
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
-        drawer.closeDrawer(GravityCompat.START);
+      //  drawer.closeDrawer(GravityCompat.START);
         return true;
     }
 
@@ -103,8 +103,5 @@ public class MainActivity extends AppCompatActivity
      void irfan()
     {
 // sajid i dong updation
-
-
-        //sajid second updationnnnn
     }
 }
