@@ -100,7 +100,7 @@ public class MainActivity extends AppCompatActivity
     }
 
 
-    puplic void irfan()
+     void irfan()
     {
 
     }
